@@ -2,5 +2,7 @@
 
 When you start the program, you will see a list of instruments. You can click on an instrument to see a description of the instrument and a bigger version of the picture.
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2025-10-20 at 22.19.40.mp4…
+
+https://github.com/user-attachments/assets/cdeb6684-a507-4866-8cf9-25d69999642b
+
 
